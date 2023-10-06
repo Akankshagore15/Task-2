@@ -1,2 +1,2 @@
-# Task-2
+# Gore Akanksha Game website
 using html css bootstrap
